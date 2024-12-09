@@ -20,3 +20,5 @@
 | **2주차** | [java-racingcar-7](https://github.com/JHZLO/java-racingcar-7) | [레이싱카 미션](https://github.com/woowacourse-precourse/java-racingcar-7/pull/304) |[코드설명](https://jhzlo.tistory.com/51) & [회고](https://jhzlo.tistory.com/52)  |
 | **3주차** | [java-lotto-7](https://github.com/JHZLO/java-lotto-7) | [로또 미션](https://github.com/woowacourse-precourse/java-lotto-7/pull/1145) |[코드설명](https://jhzlo.tistory.com/53) |
 | **4주차** | [java-convenience-store-7](https://github.com/JHZLO/java-convenience-store-7-Jhzlo) | [편의점 미션](https://github.com/JHZLO/java-convenience-store-7-Jhzlo) |  |
+
+[1차 불합격에 대한 회고](https://jhzlo.tistory.com/55)
